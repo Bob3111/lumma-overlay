@@ -1,7 +1,7 @@
-# Lumma Overlay
+
 
 <p align="center">
-  <strong>Overlay de controle de monitor dentro de jogos — sem precisar alt-tab.</strong>
+  <strong>Lumma Overlay de controle de monitor dentro de jogos — sem precisar alt-tab.</strong>
 </p>
 
 <p align="center">
