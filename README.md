@@ -156,7 +156,7 @@ FPS data is captured using **Intel PresentMon**, an open-source tool that uses W
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>MCO</strong>
+  Made with ❤️ by <strong><a href="https://www.youtube.com/@Doug_tech">@Doug_tech</a></strong>
 </p>
 
 <p align="center">
