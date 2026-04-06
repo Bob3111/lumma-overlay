@@ -13,27 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/overlay-preview.png" alt="Lumma Overlay - In-game monitor control" width="700">
-</p>
-
-<p align="center">
-  <strong>Control your monitor brightness, contrast, gamma, color temperature and more — directly from inside any game.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bob3111/lumma-overlay/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Bob3111/lumma-overlay?label=version&color=00D4FF" alt="Latest Release">
-  </a>
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey" alt="Platform">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
-</p>
-
-<p align="center">
-  <img src="assets/overlay-preview.png" alt="Lumma Overlay - In-game monitor control" width="700">
-</p>
-
-<p align="center">
-  <strong>Control your monitor brightness, contrast, gamma, color temperature and more — directly from inside any game.</strong>
+  <img src="assets/overlay-preview.png" alt="Lumma Overlay - In-game monitor control" width="550">
 </p>
 
 ---
