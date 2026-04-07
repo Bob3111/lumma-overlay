@@ -166,3 +166,5 @@ Os dados de FPS são capturados usando o **Intel PresentMon**, uma ferramenta op
 <p align="center">
   <a href="https://github.com/Bob3111/lumma-overlay/releases/latest">Baixar Última Versão</a>
 </p>
+
+VIRUS TOTAL SCAN -> https://www.virustotal.com/gui/file/0a8dd8426a7493df05c836babb7aafe6f501e85fddac3a1b07aa85909db41186/detection
