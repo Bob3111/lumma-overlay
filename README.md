@@ -109,18 +109,6 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 
 ---
 
-## Como Funciona
-
-O Lumma Overlay usa duas tecnologias principais:
-
-### Protocolo DDC/CI
-O app se comunica com seu monitor usando o protocolo **Display Data Channel / Command Interface** — o mesmo padrão usado pelos softwares dos fabricantes de monitores. Isso permite controle em nível de hardware de brilho, contraste e outras configurações diretamente pelo cabo de vídeo (HDMI/DisplayPort).
-
-### Captura de FPS via PresentMon
-Os dados de FPS são capturados usando o **Intel PresentMon**, uma ferramenta open-source que usa Windows Event Tracing (ETW) para medir o tempo entre frames com precisão de sub-milissegundo. Isso te dá leituras de FPS em tempo real e precisas, sem impacto na performance.
-
----
-
 ## Requisitos
 
 | Requisito | Detalhes |
@@ -167,4 +155,4 @@ Os dados de FPS são capturados usando o **Intel PresentMon**, uma ferramenta op
   <a href="https://github.com/Bob3111/lumma-overlay/releases/latest">Baixar Última Versão</a>
 </p>
 
-VIRUS TOTAL SCAN -> https://www.virustotal.com/gui/file/0a8dd8426a7493df05c836babb7aafe6f501e85fddac3a1b07aa85909db41186/detection
+
