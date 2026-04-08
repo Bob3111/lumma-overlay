@@ -123,6 +123,7 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 ---
 
 ## Changelog
+
 🚀 v1.1.1 — Estabilidade e Distribuição (Windows)
 ✨ Melhorias
 Ícone corrigido no instalador e no aplicativo (.ico padrão)
