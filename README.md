@@ -126,22 +126,24 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 
 Changelog
 v1.1.1 — Estabilidade e Distribuicao (Windows)
-Icone correto no instalador e no app (agora usa .ico, evita instalador “sem icone”)
-Backend renomeado e identificado como produto (Lumma Overlay Service com version info)
-Build mais robusto: gera icone automaticamente e nao trava se PyArmor estiver sem licenca (fallback)
-Atalhos de teclado aprimorados: toque vs segurar para entrar no modo controle, sem abrir/fechar em loop
 
-### v1.1.0 — Primeiro Lançamento
-- Controle completo via DDC/CI (brilho, contraste, gama, temperatura de cor, saturação)
-- Detecção automática de jogos com perfis por jogo
-- Contador de FPS via PresentMon
-- Suporte a controle Xbox (navegação pelo D-Pad)
-- Sistema de presets rápidos
-- Modo compacto
-- Início automático com o Windows
-- Controle total pela bandeja do sistema
-- Verificador de atualizações
-- Sistema de perfis (salvar/carregar/exportar)
+Icone correto no instalador e no app (padrao .ico)
+Backend com nome de produto: Lumma Overlay Service + version info no executavel
+Build mais robusto: gera icone automaticamente e faz fallback se PyArmor estiver sem licenca
+Teclado melhorado: toque vs segurar para modo controle, sem loop de abrir/fechar
+
+v1.1.0 — Primeiro Lancamento
+
+Controle completo via DDC/CI (brilho, contraste, gama, temperatura de cor, saturacao)
+Deteccao automatica de jogos com perfis por jogo
+Contador de FPS via PresentMon
+Suporte a controle Xbox (navegacao pelo D-Pad)
+Sistema de presets rapidos
+Modo compacto
+Inicio automatico com o Windows
+Controle total pela bandeja do sistema
+Verificador de atualizacoes
+Sistema de perfis (salvar/carregar/exportar)
 
 ---
 
