@@ -124,24 +124,21 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 
 ## Changelog
 🚀 v1.1.1 — Estabilidade e Distribuição (Windows)
-
 ✨ Melhorias
 Ícone corrigido no instalador e no aplicativo (.ico padrão)
 Backend identificado corretamente como Lumma Overlay Service
 Adicionado versionamento ao executável
 🛠️ Build & Distribuição
 Processo de build mais robusto
-Geração automática de ícone durante build
+Geração automática de ícone durante o build
 Sistema de fallback caso o PyArmor esteja sem licença
 🎮 Input & Controle
 Teclado otimizado:
 Diferenciação entre toque e segurar
 Correção do bug de loop ao abrir/fechar overlay
-
 🎉 v1.1.0 — Primeiro Lançamento
-
 🔧 Funcionalidades principais
-Controle completo via DDC/CI
+Controle completo via DDC/CI:
 Brilho
 Contraste
 Gama
@@ -162,7 +159,6 @@ Sistema de perfis:
 Salvar
 Carregar
 Exportar
----
 
 
 <p align="center">
