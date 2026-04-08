@@ -124,6 +124,13 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 
 ## Changelog
 
+Changelog
+v1.1.1 — Estabilidade e Distribuicao (Windows)
+Icone correto no instalador e no app (agora usa .ico, evita instalador “sem icone”)
+Backend renomeado e identificado como produto (Lumma Overlay Service com version info)
+Build mais robusto: gera icone automaticamente e nao trava se PyArmor estiver sem licenca (fallback)
+Atalhos de teclado aprimorados: toque vs segurar para entrar no modo controle, sem abrir/fechar em loop
+
 ### v1.1.0 — Primeiro Lançamento
 - Controle completo via DDC/CI (brilho, contraste, gama, temperatura de cor, saturação)
 - Detecção automática de jogos com perfis por jogo
@@ -138,14 +145,6 @@ Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena d
 
 ---
 
-## Segurança e Privacidade
-
-- **Sem telemetria** — O Lumma Overlay não coleta nem envia nenhum dado
-- **Sem internet necessária** — Funciona totalmente offline (verificação de atualizações é opcional)
-- **Zero dependências externas** — Tudo está incluso no instalador
-- **Compilado e ofuscado** — Todo o código é compilado e ofuscado para segurança
-
----
 
 <p align="center">
   Feito com ❤️ por <strong><a href="https://www.youtube.com/@Doug_tech">@Doug_tech</a></strong>
