@@ -5,6 +5,8 @@
 </p>
 <img width="296" height="454" alt="image" src="https://github.com/user-attachments/assets/5f57cb66-32b0-4db0-a4d1-6be7aa724dc9" />
 <img width="302" height="454" alt="image" src="https://github.com/user-attachments/assets/30301845-d516-43aa-8270-2ed6b931ff66" />
+<img width="294" height="451" alt="image" src="https://github.com/user-attachments/assets/6b606d5c-145b-4bab-9e80-4684fdd994ae" />
+
 
 <p align="center">
   <a href="https://github.com/Bob3111/lumma-overlay/releases/latest">
@@ -12,10 +14,6 @@
   </a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey" alt="Plataforma">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
-</p>
-
-<p align="center">
-  <img src="assets/overlay-preview.png" alt="Lumma Overlay - Controle de monitor dentro do jogo" width="550">
 </p>
 
 <p align="center">
