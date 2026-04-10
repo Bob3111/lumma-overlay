@@ -3,10 +3,10 @@
 <p align="center">
   <strong>Lumma Overlay de filtros e controle de monitor dentro de jogos — sem precisar alt-tab.</strong>
 </p>
-<img width="296" height="454" alt="image" src="https://github.com/user-attachments/assets/5f57cb66-32b0-4db0-a4d1-6be7aa724dc9" />
-<img width="302" height="454" alt="image" src="https://github.com/user-attachments/assets/30301845-d516-43aa-8270-2ed6b931ff66" />
-<img width="294" height="451" alt="image" src="https://github.com/user-attachments/assets/6b606d5c-145b-4bab-9e80-4684fdd994ae" />
-<img width="302" height="449" alt="image" src="https://github.com/user-attachments/assets/701c2019-1a92-49e6-b923-34863f0b6004" />
+            <img width="296" height="454" alt="image" src="https://github.com/user-attachments/assets/5f57cb66-32b0-4db0-a4d1-6be7aa724dc9" />
+            <img width="302" height="454" alt="image" src="https://github.com/user-attachments/assets/30301845-d516-43aa-8270-2ed6b931ff66" />
+            <img width="294" height="451" alt="image" src="https://github.com/user-attachments/assets/6b606d5c-145b-4bab-9e80-4684fdd994ae" />
+            <img width="302" height="449" alt="image" src="https://github.com/user-attachments/assets/701c2019-1a92-49e6-b923-34863f0b6004" />
 
 <p align="center">
   <a href="https://github.com/Bob3111/lumma-overlay/releases/latest">
