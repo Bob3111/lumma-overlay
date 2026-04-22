@@ -34,11 +34,16 @@
 <h2>🚀 Diferencial</h2>
 
 <ul>
-  <li>🎮 Funciona <strong>sem sair do jogo</strong></li>
-  <li>⌨️ Controle completo via <strong>teclado</strong></li>
-  <li>🎮 Controle completo via <strong>controle</strong></li>
-  <li>⚡ Ajustes em <strong>tempo real</strong></li>
-  <li>🛌 Usável até <strong>sem mouse</strong></li>
+<ul>
+  <li>🖥️ Funciona em <strong>todo o sistema (Windows)</strong></li>
+  <li>🎮 Nunca mais precise <strong>sair do jogo</strong></li>
+  <li>🎨 Filtros avançados que <strong>melhoram a qualidade da imagem</strong></li>
+  <li>🌙 Perfeito para <strong>games, filmes e uso noturno</strong></li>
+  <li>⌨️ Controle total no <strong>teclado</strong></li>
+  <li>🎮 Controle total no <strong>controle</strong></li>
+  <li>⚡ Ajustes instantâneos em <strong>tempo real</strong></li>
+  <li>🛌 Use até <strong>sem encostar no mouse</strong></li>
+</ul>
 </ul>
 
 <h2>🎮 Fluxo de Controle (Xbox)</h2>
