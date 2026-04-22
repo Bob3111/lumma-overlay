@@ -19,149 +19,62 @@
 </p>
 
 <p align="center">
-  <strong>Controle brilho, contraste, gama, temperatura de cor e mais — direto de dentro de qualquer jogo.</strong>
-</p>
 
----
+O Lumma Overlay é uma sobreposição leve que permite ajustar brilho, contraste, gama, temperatura de cor e filtros em tempo real.
 
-## O que é o Lumma Overlay?
+Tudo funciona diretamente durante o jogo, com controle completo por teclado ou controle, sem interrupções.
 
-O Lumma Overlay é uma sobreposição leve e transparente que fica por cima dos seus jogos e permite ajustar as configurações do monitor em tempo real — **sem nunca sair do jogo**.
+Diferencial
+🎮 Funciona sem sair do jogo
+⌨️ Controle completo via teclado
+🎮 Controle completo via controle
+⚡ Ajustes em tempo real
+🛌 Usável até sem mouse
+Fluxo de Controle (Controle Xbox)
 
-Feito para gamers que querem ajustar a tela na hora, seja escurecendo uma cena de terror, aumentando o contraste em jogos competitivos ou ajustando a temperatura de cor para sessões noturnas.
+O Lumma possui um sistema inteligente baseado no botão Select/View:
 
----
+Ação	Resultado
+Pressionar Select	Abre/fecha o overlay
+Segurar Select (curto)	Entra no Control Mode
+Segurar Select (mais tempo)	Ativa o HyperLock Mode
+Modos do Overlay
+🎛️ Control Mode
 
-## Recursos
+Modo padrão de interação.
 
-| Recurso | Descrição |
-|---------|-----------|
-| Controle do Monitor em Tempo Real | Ajuste brilho, contraste, gama, temperatura de cor, saturação e mais via DDC/CI |
-| Detecção Automática de Jogos | Detecta automaticamente quando você entra/sai de jogos em tela cheia |
-| Contador de FPS | FPS em tempo real usando Intel PresentMon via ETW |
-| Perfis por Jogo | Salve configurações por jogo e carregue automaticamente |
-| Suporte a Controle Xbox | Navegação completa pelo D-Pad — sem teclado |
-| Presets Rápidos | Presets de brilho/contraste com um clique para cenários comuns |
-| Modo Compacto | Overlay minimal que não atrapalha a jogatina |
-| Início com o Windows | Inicia automaticamente junto com o sistema |
-| Menu na Bandeja | Controle total pelo ícone na área de notificação |
-| Verificador de Atualizações | Verifica automaticamente por novas versões |
+Permite navegar e ajustar valores
+Inputs do controle ainda podem atingir o jogo
+Ideal para ajustes rápidos
+🔒 HyperLock Mode
 
----
+Modo avançado focado em controle total.
 
-## Controles pelo Teclado
+Bloqueia inputs para o jogo
+Todo input vai apenas para o Lumma
+Evita conflitos durante ajustes
+Ideal para configurações precisas durante gameplay
 
-| Atalho | Ação |
-|--------|------|
-| `Ctrl + Shift + O` | Mostrar/esconder overlay |
-| `Ctrl + Shift + Cima` | Brilho +5% |
-| `Ctrl + Shift + Baixo` | Brilho -5% |
-| `Ctrl + Shift + Direita` | Contraste +5% |
-| `Ctrl + Shift + Esquerda` | Contraste -5% |
-| `Ctrl + Shift + R` | Restaurar padrão |
-| `Ctrl + Shift + P` | Trocar perfil |
+Para sair: pressione Select novamente
 
----
-
-## Controle Xbox
-
-| Botão | Ação |
-|-------|------|
-| **View + Select** (segurar) | Abrir/fechar modo controle |
-| **D-Pad Cima** | Mover seleção para cima |
-| **D-Pad Baixo** | Mover seleção para baixo |
-| **D-Pad Esquerda** | Diminuir valor selecionado |
-| **D-Pad Direita** | Aumentar valor selecionado |
-
-> O overlay detecta automaticamente quando você está em um jogo e muda para o modo controle sem interrupção.
-
----
-
-## Instalação
-
-1. **Baixe** o instalador mais recente na página de [Releases](https://github.com/Bob3111/lumma-overlay/releases/latest)
-2. **Execute** `Lumma_Overlay_Setup_1.1.0.exe` como Administrador
-3. **Siga** o assistente de instalação
-4. **Abra** pelo atalho na Área de Trabalho ou Menu Iniciar
-
-> O app precisa de privilégios de Administrador para se comunicar com monitores via DDC/CI e capturar dados de FPS.
-
----
-
-## Configurações e Opções
-
-### Opções de Interface
-- **Modo Compacto** — Reduz o tamanho do overlay para cobertura mínima na tela
-- **Mostrar Presets Rápidos** — Ativa/desativa a barra de presets
-- **Mostrar Seção de Perfis** — Ativa/desativa o seletor de perfis
-- **Transparência** — Ajuste a opacidade do overlay de 35% a 100%
-
-### Perfis
-- Crie perfis personalizados para diferentes jogos ou cenários
-- Carregamento automático quando um jogo específico é detectado
-- Exporte e compartilhe perfis com outros usuários
-
-### Seleção de Monitor
-- Selecione qual monitor controlar (suporte a múltiplos monitores)
-- Aplique configurações globalmente ou por monitor
-
-### Início com o Windows
-- Ative/desative "Iniciar com o Windows" pelo menu na bandeja ou Configurações > Sobre
-- Roda silenciosamente em segundo plano, pronto quando você precisar
-
----
-
-## Requisitos
-
-| Requisito | Detalhes |
-|-----------|----------|
-| **SO** | Windows 10 ou Windows 11 |
-| **Monitor** | Compatível com DDC/CI (a maioria dos monitores modernos) |
-| **Modo do Jogo** | Janela sem borda recomendado para visibilidade do overlay |
-| **Permissões** | Administrador (necessário para DDC/CI e monitoramento de FPS) |
-
-> O DDC/CI precisa estar ativado nas configurações OSD do seu monitor. A maioria dos monitores já vem com isso ativado por padrão.
-
----
-
-## Changelog
-
-🚀 v1.1.1 — Estabilidade e Distribuição (Windows)
-✨ Melhorias
-Ícone corrigido no instalador e no aplicativo (.ico padrão)
-Backend identificado corretamente como Lumma Overlay Service
-Adicionado versionamento ao executável
-🛠️ Build & Distribuição
-Processo de build mais robusto
-Geração automática de ícone durante o build
-Sistema de fallback caso o PyArmor esteja sem licença
-🎮 Input & Controle
-Teclado otimizado:
-Diferenciação entre toque e segurar
-Correção do bug de loop ao abrir/fechar overlay
-🎉 v1.1.0 — Primeiro Lançamento
-🔧 Funcionalidades principais
-Controle completo via DDC/CI:
-Brilho
-Contraste
-Gama
-Temperatura de cor
-Saturação
-Detecção automática de jogos
-Perfis individuais por jogo
-Contador de FPS via PresentMon
-🎮 Controle & Interface
-Suporte a controle Xbox (navegação via D-Pad)
-Sistema de presets rápidos
-Modo compacto
-Controle completo pela bandeja do sistema
-⚙️ Sistema & Automação
-Inicialização automática com o Windows
-Verificador de atualizações
-Sistema de perfis:
-Salvar
-Carregar
-Exportar
+Controles (Controle Xbox)
+Botão	Ação
+Select (toque)	Abrir/fechar overlay
+Select (segurar)	Entrar Control Mode
+Select (segurar mais tempo)	Ativar HyperLock
+D-Pad ↑	Navegar para cima
+D-Pad ↓	Navegar para baixo
+D-Pad ←	Diminuir valor
+D-Pad →	Aumentar valor
+Controles (Teclado)
+Atalho	Ação
+Ctrl + Shift + O	Mostrar / esconder overlay
+Ctrl + Shift + ↑	Brilho +5%
+Ctrl + Shift + ↓	Brilho -5%
+Ctrl + Shift + →	Contraste +5%
+Ctrl + Shift + ←	Contraste -5%
+Ctrl + Shift + R	Restaurar padrão
+Ctrl + Shift + P	Trocar perfil
 
 
 <p align="center">
