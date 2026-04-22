@@ -102,6 +102,10 @@
 
 <h2>🎮 Controles (Controle Xbox)</h2>
 
+<p>
+  ⚙️ <strong>Personalização:</strong> Todos os botões e atalhos podem ser configurados na aba <strong>Settings</strong> dentro do aplicativo.
+</p>
+
 <table>
   <thead>
     <tr>
@@ -141,7 +145,13 @@
   </tbody>
 </table>
 
+<br>
+
 <h2>⌨️ Controles (Teclado)</h2>
+
+<p>
+  ⚙️ <strong>Personalização:</strong> Os atalhos de teclado também podem ser alterados na aba <strong>Settings</strong>.
+</p>
 
 <table>
   <thead>
