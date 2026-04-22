@@ -21,64 +21,165 @@
 
 <p align="center">
 
-📌 Sobre
+h2>Sobre</h2>
 
-O Lumma Overlay é uma sobreposição leve que permite ajustar brilho, contraste, gama, temperatura de cor e filtros em tempo real.
+<p>
+  O <strong>Lumma Overlay</strong> é uma sobreposição leve que permite ajustar brilho, contraste, gama,
+  temperatura de cor e filtros em tempo real.
+</p>
 
-Tudo funciona diretamente durante o jogo, com controle completo por teclado ou controle, sem interrupções.
+<p>
+  Tudo funciona diretamente durante o jogo, com <strong>controle completo por teclado ou controle</strong>,
+  sem interrupções.
+</p>
 
-🚀 Diferencial
-🎮 Funciona sem sair do jogo
-⌨️ Controle completo via teclado
-🎮 Controle completo via controle
-⚡ Ajustes em tempo real
-🛌 Usável até sem mouse
-🎮 Fluxo de Controle (Xbox)
+<h2>🚀 Diferencial</h2>
 
-O Lumma utiliza um sistema inteligente baseado no botão Select / View:
+<ul>
+  <li>🎮 Funciona <strong>sem sair do jogo</strong></li>
+  <li>⌨️ Controle completo via <strong>teclado</strong></li>
+  <li>🎮 Controle completo via <strong>controle</strong></li>
+  <li>⚡ Ajustes em <strong>tempo real</strong></li>
+  <li>🛌 Usável até <strong>sem mouse</strong></li>
+</ul>
 
-Ação	Resultado
-Pressionar Select	Abre / fecha o overlay
-Segurar Select (curto)	Entra no Control Mode
-Segurar Select (mais tempo)	Ativa o HyperLock Mode
-🎛️ Modos do Overlay
-🎛️ Control Mode
+<h2>🎮 Fluxo de Controle (Xbox)</h2>
 
-Modo padrão de interação.
+<p>
+  O Lumma utiliza um sistema inteligente baseado no botão <strong>Select / View</strong>.
+</p>
 
-Permite navegar e ajustar valores
-Inputs do controle ainda podem atingir o jogo
-Ideal para ajustes rápidos
-🔒 HyperLock Mode
+<table>
+  <thead>
+    <tr>
+      <th>Ação</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pressionar Select</td>
+      <td>Abre / fecha o overlay</td>
+    </tr>
+    <tr>
+      <td>Segurar Select (curto)</td>
+      <td>Entra no <strong>Control Mode</strong></td>
+    </tr>
+    <tr>
+      <td>Segurar Select (mais tempo)</td>
+      <td>Ativa o <strong>HyperLock Mode</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-Modo avançado focado em controle total.
+<h2>🎛️ Modos do Overlay</h2>
 
-Bloqueia inputs para o jogo
-Todo input vai apenas para o Lumma
-Evita conflitos durante ajustes
-Ideal para configurações precisas durante gameplay
+<h3>🎛️ Control Mode</h3>
 
-➡️ Para sair: pressione Select novamente
+<p>Modo padrão de interação.</p>
 
-🎮 Controles (Controle Xbox)
-Botão	Ação
-Select (toque)	Abrir / fechar overlay
-Select (segurar)	Entrar Control Mode
-Select (segurar mais tempo)	Ativar HyperLock
-D-Pad ↑	Navegar para cima
-D-Pad ↓	Navegar para baixo
-D-Pad ←	Diminuir valor
-D-Pad →	Aumentar valor
-⌨️ Controles (Teclado)
-Atalho	Ação
-Ctrl + Shift + O	Mostrar / esconder overlay
-Ctrl + Shift + ↑	Brilho +5%
-Ctrl + Shift + ↓	Brilho -5%
-Ctrl + Shift + →	Contraste +5%
-Ctrl + Shift + ←	Contraste -5%
-Ctrl + Shift + R	Restaurar padrão
-Ctrl + Shift + P	Trocar perfil
+<ul>
+  <li>Permite navegar e ajustar valores</li>
+  <li>Inputs do controle ainda podem atingir o jogo</li>
+  <li>Ideal para ajustes rápidos</li>
+</ul>
 
+<h3>🔒 HyperLock Mode</h3>
+
+<p>Modo avançado focado em controle total.</p>
+
+<ul>
+  <li>Bloqueia inputs para o jogo</li>
+  <li>Todo input vai apenas para o Lumma</li>
+  <li>Evita conflitos durante ajustes</li>
+  <li>Ideal para configurações precisas durante gameplay</li>
+</ul>
+
+<p>
+  ➡️ Para sair: pressione <strong>Select</strong> novamente.
+</p>
+
+<h2>🎮 Controles (Controle Xbox)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Botão</th>
+      <th>Ação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Select (toque)</td>
+      <td>Abrir / fechar overlay</td>
+    </tr>
+    <tr>
+      <td>Select (segurar)</td>
+      <td>Entrar Control Mode</td>
+    </tr>
+    <tr>
+      <td>Select (segurar mais tempo)</td>
+      <td>Ativar HyperLock</td>
+    </tr>
+    <tr>
+      <td>D-Pad ↑</td>
+      <td>Navegar para cima</td>
+    </tr>
+    <tr>
+      <td>D-Pad ↓</td>
+      <td>Navegar para baixo</td>
+    </tr>
+    <tr>
+      <td>D-Pad ←</td>
+      <td>Diminuir valor</td>
+    </tr>
+    <tr>
+      <td>D-Pad →</td>
+      <td>Aumentar valor</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>⌨️ Controles (Teclado)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atalho</th>
+      <th>Ação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ctrl + Shift + O</td>
+      <td>Mostrar / esconder overlay</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + ↑</td>
+      <td>Brilho +5%</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + ↓</td>
+      <td>Brilho -5%</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + →</td>
+      <td>Contraste +5%</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + ←</td>
+      <td>Contraste -5%</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + R</td>
+      <td>Restaurar padrão</td>
+    </tr>
+    <tr>
+      <td>Ctrl + Shift + P</td>
+      <td>Trocar perfil</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   Feito com ❤️ por <strong><a href="https://www.youtube.com/@Doug_tech">@Doug_tech</a></strong>
