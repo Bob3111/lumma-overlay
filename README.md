@@ -21,8 +21,6 @@
 
 <p align="center">
 
-h2>Sobre</h2>
-
 <p>
   O <strong>Lumma Overlay</strong> é uma sobreposição leve que permite ajustar brilho, contraste, gama,
   temperatura de cor e filtros em tempo real.
