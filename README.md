@@ -34,7 +34,6 @@
 <h2>🚀 Diferencial</h2>
 
 <ul>
-<ul>
   <li>🖥️ Funciona em <strong>todo o sistema (Windows)</strong></li>
   <li>🎮 Nunca mais precise <strong>sair do jogo</strong></li>
   <li>🎨 Filtros avançados que <strong>melhoram a qualidade da imagem</strong></li>
@@ -43,7 +42,6 @@
   <li>🎮 Controle total no <strong>controle</strong></li>
   <li>⚡ Ajustes instantâneos em <strong>tempo real</strong></li>
   <li>🛌 Use até <strong>sem encostar no mouse</strong></li>
-</ul>
 </ul>
 
 <h2>🎮 Fluxo de Controle (Xbox)</h2>
